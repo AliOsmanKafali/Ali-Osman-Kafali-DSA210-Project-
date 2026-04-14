@@ -21,3 +21,5 @@ The goal of this project is to analyze Spotify tracks data and explore patterns 
 Additional Steps:
 - Handling missing values (if present)
 - Basic data transformation (normalization if needed)
+
+Insights will be derived from relationships between musical features and popularity.
