@@ -23,3 +23,8 @@ Additional Steps:
 - Basic data transformation (normalization if needed)
 
 Insights will be derived from relationships between musical features and popularity.
+## Analysis Notebook
+
+The full analysis with visualizations and explanations can be found in:
+
+analysis.ipynb
