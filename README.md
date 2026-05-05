@@ -28,3 +28,5 @@ Insights will be derived from relationships between musical features and popular
 The full analysis with visualizations and explanations can be found in:
 
 analysis.ipynb
+
+This project applies multiple machine learning methods including Linear Regression, KNN, Decision Tree, and Logistic Regression to analyze Spotify track popularity.
